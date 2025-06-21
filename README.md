@@ -65,5 +65,12 @@ firebase-admin
 ## Privacy Considerations
 This application collects detailed information about system usage. Please ensure you have appropriate permissions when deploying in shared or managed environments.
 
-## License
-[https://github.com/SabrishV/WinTrack/blob/main/LICENSE]
+
+## ⚠️ License & Restrictions
+
+This project is **not open-source**.
+
+The source code is publicly available **only for reference and educational purposes**.  
+**You may not** reuse, modify, or redistribute this code under any circumstances.
+
+> All rights reserved © 2025 Sabrish V
